@@ -1,7 +1,10 @@
-### Hola a todos soy Juan Aguilera , interesado en la ciberseguridad y aprendiendo programacion en Python
+### Saludos Terricolas soy Juan Aguilera un entusiasta del mundo Linux y la ciberseguridad.
+### Ahora estudiante de programacion en Python 
+
 
 <!--
 **mrcaos/mrcaos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
