@@ -1,4 +1,5 @@
 #Saludos Terricolas soy Juan Aguilera un entusiasta del mundo Linux y la ciberseguridad.
+
 #Ahora estudiante de programacion en Python 
 
 <!--
