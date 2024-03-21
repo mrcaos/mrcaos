@@ -17,7 +17,7 @@ You can find me 🌎
 - [Facebook](https://www.facebook.com/sionversion)
 - [Github](https://github.com/mrcaos)
   
-[![mrcaos github stats](https://github-readme-stats.vercel.app/api?username=mrcaos&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)
+<!--[![mrcaos github stats](https://github-readme-stats.vercel.app/api?username=mrcaos&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/naveenverma1)-->
 
 
 <!--
